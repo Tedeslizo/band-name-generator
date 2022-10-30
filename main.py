@@ -1,0 +1,6 @@
+print("Welcome to my final project bros this is a band name generator")
+city = input("Which city did you grow up in?\n ")
+mascota = input("Wich was the name of your pet?\n ")
+print("Ahhhh excelente data bro creo que ya tengo una buena idea")
+print("el nombre de tu bandita de pana seria " + city + " " + mascota)
+print("Para mas vainitas como esta sigueme")
